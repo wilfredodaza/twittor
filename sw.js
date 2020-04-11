@@ -11,7 +11,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 //2. creacion de array archivos principales que necesito para almacenar 
 
 const APP_SHELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
