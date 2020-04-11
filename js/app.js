@@ -1,7 +1,7 @@
 // hacemos validaciones del path de root dependiendo dell lugar
 
 var url = window.location.href;
-var swLocation ='/twittor/';
+var swLocation ='/twittor/sw.js';
 
 if(navigator.serviceWorker){
     if (url.includes('localhost')) {
